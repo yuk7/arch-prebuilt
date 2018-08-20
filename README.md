@@ -4,6 +4,9 @@
 
 ### Log
 
+[2018/08/21 00](https://github.com/yuk7/arch-prebuilt/releases/tag/18082100)
+* fakeroot-tcp-1.23-1-x86_64.pkg.tar.xz
+
 [2017/12/16 00](https://github.com/yuk7/arch-prebuilt/releases/tag/17121600)
 * fakeroot-tcp-1.22-1-x86_64.pkg.tar.xz
 
