@@ -4,6 +4,9 @@
 
 ### Log
 
+[2019/03/16 00](https://github.com/yuk7/arch-prebuilt/releases/tag/19031600)
+* code-server-1.32.0_282-2-x86_64.pkg.tar.xz
+
 [2018/12/09 00](https://github.com/yuk7/arch-prebuilt/releases/tag/18120900)
 * nvme-cli-1.6-1-x86_64.pkg.tar.xz
 
