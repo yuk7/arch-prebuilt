@@ -3,7 +3,7 @@
 ## [Releases](https://github.com/yuk7/arch-prebuilt/releases/)
 
 ### Log
-[2020/05/12 00][https://github.com/yuk7/arch-prebuilt/releases/tag/20051200]
+[2020/05/12 00](https://github.com/yuk7/arch-prebuilt/releases/tag/20051200)
 * dbus-x11-1.12.16-1-x86_64.pkg.tar.xz
 * dbus-x11-docs-1.12.16-1-x86_64.pkg.tar.xz
 
