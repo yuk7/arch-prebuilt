@@ -3,6 +3,11 @@
 ## [Releases](https://github.com/yuk7/arch-prebuilt/releases/)
 
 ### Log
+[2021/08/21 00](https://github.com/yuk7/arch-prebuilt/releases/tag/21082100)
+* fakeroot-tcp-1.25.3-2-x86_64.pkg.tar.zst
+* glibc-2.33-5-x86_64.pkg.tar.zst (remove newer syscall patched)
+* lib32-glibc-2.33-5-x86_64.pkg.tar.zst (remove newer syscall patched)
+
 [2020/05/18 00](https://github.com/yuk7/arch-prebuilt/releases/tag/20051800)
 * daemonize-1.7.7-1-x86_64.pkg.tar.xz
 
