@@ -3,6 +3,10 @@
 ## [Releases](https://github.com/yuk7/arch-prebuilt/releases/)
 
 ### Log
+[2022/10/02 00](https://github.com/yuk7/arch-prebuilt/releases/tag/22100100)
+* glibc-2.36-2-x86_64.pkg.tar.zst (remove newer syscall patched)
+* lib32-glibc-2.36-2-x86_64.pkg.tar.zst (remove newer syscall patched)
+
 [2021/08/21 00](https://github.com/yuk7/arch-prebuilt/releases/tag/21082100)
 * fakeroot-tcp-1.25.3-2-x86_64.pkg.tar.zst
 * glibc-2.33-5-x86_64.pkg.tar.zst (remove newer syscall patched)
