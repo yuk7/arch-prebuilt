@@ -3,6 +3,10 @@
 ## [Releases](https://github.com/yuk7/arch-prebuilt/releases/)
 
 ### Log
+[2024-02-24 00](https://github.com/yuk7/arch-prebuilt/releases/tag/24022400)
+* glibc-2.39-1-x86_64.pkg.tar.zst (linux 4.4.0 target)
+* lib32-glibc-2.39-1-x86_64.pkg.tar.zst (linux 4.4.0 target)
+
 [2023-12-13 00](https://github.com/yuk7/arch-prebuilt/releases/tag/23121300)
 * glibc-2.38-7-x86_64.pkg.tar.zst (linux 4.4.0 target)
 * lib32-glibc-2.38-7-x86_64.pkg.tar.zst (linux 4.4.0 target)
