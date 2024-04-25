@@ -3,6 +3,13 @@
 ## [Releases](https://github.com/yuk7/arch-prebuilt/releases/)
 
 ### Log
+[2024-02-24 00](https://github.com/yuk7/arch-prebuilt/releases/tag/24042500)
+* glibc-2.39-2-x86_64.pkg.tar.zst (linux 4.4.0 target)
+* lib32-glibc-2.39-2-x86_64.pkg.tar.zst (linux 4.4.0 target)
+* glibc-linux4-2.39-2-x86_64.pkg.tar.zst
+* lib32-glibc-linux4-2.39-2-x86_64.pkg.tar.zst
+* fakeroot-tcp-1.34-1-x86_64.pkg.tar.zst
+
 [2024-02-24 00](https://github.com/yuk7/arch-prebuilt/releases/tag/24022400)
 * glibc-2.39-1-x86_64.pkg.tar.zst (linux 4.4.0 target)
 * lib32-glibc-2.39-1-x86_64.pkg.tar.zst (linux 4.4.0 target)
